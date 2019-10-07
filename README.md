@@ -1,4 +1,6 @@
 # utfutil
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkitmartindev%2Futfutil.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkitmartindev%2Futfutil?ref=badge_shield)
+
 
 Utilities to make it easier to read text encoded as UTF-16.
 
@@ -87,3 +89,7 @@ HTML5   = UTF8      (i.e. a reasonable guess if file is from the web)
 
 If someone writes a golang equivalent of uchatdet, I'll add a hint
 called "AUTO" which uses it. That would be awesome. Volunteers?
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkitmartindev%2Futfutil.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkitmartindev%2Futfutil?ref=badge_large)
